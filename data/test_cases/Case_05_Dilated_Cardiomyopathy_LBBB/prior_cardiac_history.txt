@@ -1,0 +1,12 @@
+PATIENT: Amina Diallo (PT-10486)
+AGE: 49 | GENDER: Female
+DIAGNOSIS: Non-Ischemic Dilated Cardiomyopathy with Complete LBBB and Severe Systolic Failure (28%)
+
+CLINICAL HISTORY & SUMMARY:
+49yo female with subacute NYHA Class III heart failure symptoms, orthopnea, and lower extremity edema over 4 months.
+
+ELECTROCARDIOGRAM (ECG) INTERPRETATION:
+Wide QRS (164 ms) Complete LBBB morphology with broad notched R-waves in I, aVL, V6 and deep QS complexes in V1-V2.
+
+ECHOCARDIOGRAM (ECHO A4C) INTERPRETATION:
+Severely dilated LV (LVEDD 66 mm), LVEF 28%, pronounced septal flash and electromechanical dyssynchrony.

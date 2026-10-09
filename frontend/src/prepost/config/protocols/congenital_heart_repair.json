@@ -1,0 +1,60 @@
+{
+  "id": "congenital_heart_repair",
+  "name": "Congenital Heart Defect Repair (ASD / VSD)",
+  "specialty": "Cardiovascular Surgery",
+  "pre_op_days": 5,
+  "expected_recovery_days": 42,
+  "phases": [
+    {
+      "id": "early_recovery",
+      "name": "Post-Closure Hemodynamic Healing",
+      "stage": "after",
+      "min_days": 14,
+      "clinical_note": "Pericardial and wound monitoring, endocarditis precaution education",
+      "advance_criteria": {
+        "description": "No pericardial effusion, wound healing normally",
+        "pain_max": 3
+      },
+      "templates": {
+        "meals": [
+          {
+            "name": "High-Protein Healing Breakfast",
+            "notes": "Scrambled eggs/tofu, whole grains, fresh fruit"
+          },
+          {
+            "name": "Cardioprotective Lunch",
+            "notes": "Grilled chicken or bean burrito bowl with fresh salsa"
+          },
+          {
+            "name": "Nutrient-Dense Dinner",
+            "notes": "Baked salmon or lentil loaf with broccoli"
+          }
+        ],
+        "workout": {
+          "level": "light",
+          "duration_min": 15,
+          "instructions": [
+            "Sternal or incision precautions as instructed",
+            "Deep breathing & spirometer practice 4x daily",
+            "Flat walking 15 minutes"
+          ]
+        },
+        "checks": [
+          {
+            "name": "Surgical Incision Site",
+            "target": "Clean, intact, no erythema"
+          },
+          {
+            "name": "Oxygen Saturation & Heart Rate",
+            "target": "SpO2 >= 95%, HR in target"
+          },
+          {
+            "name": "Temperature Check",
+            "target": "< 38.0 C (100.4 F)"
+          }
+        ],
+        "focus_note": "Support structural closure healing and monitor oxygenation and temperature."
+      }
+    }
+  ]
+}

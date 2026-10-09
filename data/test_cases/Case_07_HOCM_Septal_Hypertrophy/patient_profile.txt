@@ -1,0 +1,7 @@
+PATIENT ID: PT-10488
+PATIENT NAME: Sofia Rossi
+AGE: 38
+SEX: Female
+PRIMARY DIAGNOSIS: Hypertrophic Obstructive CM (HOCM)
+PRESENTING SYMPTOMS: Exertional lightheadedness, postprandial dyspnea, non-anginal atypical chest tightness, systolic ejection murmur.
+MEDICAL HISTORY: Family history of premature sudden cardiac death in first-degree relative at age 42. Asymmetric septal hypertrophy.

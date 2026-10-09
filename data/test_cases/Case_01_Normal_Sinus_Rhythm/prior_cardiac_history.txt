@@ -1,0 +1,6 @@
+PATIENT HISTORY & DISCHARGE SUMMARY (2024-06-12):
+Age: 54, Gender: Female.
+Baseline annual cardiovascular checkup.
+Resting 12-lead ECG: Normal sinus rhythm, HR 68 bpm, normal intervals.
+Transthoracic Echocardiogram: Preserved LV systolic function, LVEF 60-65%, no regional wall motion abnormality.
+Conclusion: Stable, healthy cardiac baseline.

@@ -1,0 +1,5 @@
+CARDIAC ELECTROPHYSIOLOGY NOTE (2024-03-20):
+Age: 71, Gender: Male.
+Documented chronic Left Bundle Branch Block (LBBB) with QRS duration 142 ms.
+Echocardiogram: Mild interventricular septal dyssynchrony, mildly reduced global LVEF ~48%.
+Plan: Periodic monitoring for progressive dyssynchrony or worsening systolic function.

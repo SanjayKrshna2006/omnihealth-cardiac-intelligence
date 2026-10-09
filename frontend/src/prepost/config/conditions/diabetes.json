@@ -1,0 +1,24 @@
+{
+  "id": "diabetes",
+  "name": "Diabetes Mellitus (Type 1 / Type 2)",
+  "clinical_review": "pending_doctor_review",
+  "extension_days": 7,
+  "follow_up_prompt": "Are you taking insulin or oral tablets?",
+  "modifications": {
+    "checks": [
+      {
+        "name": "Fasting Blood Glucose",
+        "target": "80-130 mg/dL"
+      },
+      {
+        "name": "Bedtime Blood Glucose",
+        "target": "100-140 mg/dL"
+      }
+    ],
+    "meals_note": "Carbohydrate-controlled portions. Avoid concentrated sweets and refined sugars.",
+    "doctor_flags": [
+      "High risk of delayed wound healing",
+      "Requires perioperative glucose monitoring protocol"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+PATIENT: Yuki Tanaka (PT-10496)
+AGE: 70 | GENDER: Male
+DIAGNOSIS: Cardiac Transthyretin Amyloidosis with Restrictive Filling Pattern & Low ECG Voltage
+
+CLINICAL HISTORY & SUMMARY:
+70yo male with carpal tunnel syndrome history presenting with progressive exercise intolerance and peripheral edema.
+
+ELECTROCARDIOGRAM (ECG) INTERPRETATION:
+Low QRS voltages throughout all limb leads (QRS amplitude < 5 mm) despite profound structural ventricular wall thickening (discordance). Pseudo-infarct pattern V1-V3.
+
+ECHOCARDIOGRAM (ECHO A4C) INTERPRETATION:
+Marked concentric biventricular wall thickening (IVS 18 mm) with characteristic granular 'sparkling' myocardial texture, biatrial enlargement, and apical sparing longitudinal strain.

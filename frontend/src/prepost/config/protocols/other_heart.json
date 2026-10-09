@@ -1,0 +1,60 @@
+{
+  "id": "other_heart",
+  "name": "Other Heart Procedure (Physician Directed)",
+  "specialty": "Cardiovascular Care",
+  "pre_op_days": 3,
+  "expected_recovery_days": 30,
+  "phases": [
+    {
+      "id": "physician_protocol",
+      "name": "Individualized Cardiac Recovery Protocol",
+      "stage": "after",
+      "min_days": 14,
+      "clinical_note": "Individualized cardiac recovery guidance set by your cardiologist and surgical team",
+      "advance_criteria": {
+        "description": "Recovery milestones verified by physician",
+        "adherence_min": 0.8
+      },
+      "templates": {
+        "meals": [
+          {
+            "name": "Heart-Healthy Breakfast",
+            "notes": "Whole grain oatmeal with fruit and nuts"
+          },
+          {
+            "name": "Low-Sodium Lunch",
+            "notes": "Fresh greens with olive oil, grilled protein"
+          },
+          {
+            "name": "Balanced Dinner",
+            "notes": "Steamed vegetables, brown rice, lean protein"
+          }
+        ],
+        "workout": {
+          "level": "light",
+          "duration_min": 15,
+          "instructions": [
+            "Gentle walking within comfort limits: 10-15 minutes",
+            "Deep breathing exercises",
+            "Avoid lifting heavy objects until cleared"
+          ]
+        },
+        "checks": [
+          {
+            "name": "Resting Blood Pressure & Heart Rate",
+            "target": "Within physician-specified limits"
+          },
+          {
+            "name": "Daily Weight & Fluid Check",
+            "target": "Log weight each morning"
+          },
+          {
+            "name": "Incision / Access Site Inspection",
+            "target": "Check for redness, warmth, or drainage"
+          }
+        ],
+        "focus_note": "Follow personalized recommendations from your attending cardiovascular team."
+      }
+    }
+  ]
+}

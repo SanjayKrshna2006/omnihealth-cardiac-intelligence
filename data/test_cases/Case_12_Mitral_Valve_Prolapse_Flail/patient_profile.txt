@@ -1,0 +1,7 @@
+PATIENT ID: PT-10493
+PATIENT NAME: Lucas Meyer
+AGE: 52
+SEX: Male
+PRIMARY DIAGNOSIS: Severe MVP with Flail Leaflet
+PRESENTING SYMPTOMS: Sudden onset severe exertional dyspnea, dry cough, orthopnea following acute chordal rupture, loud pansystolic murmur.
+MEDICAL HISTORY: Known mild myxomatous mitral valve disease; developed acute worsening over past 72 hours.

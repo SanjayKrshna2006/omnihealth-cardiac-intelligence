@@ -1,0 +1,9 @@
+PATIENT ID: PT-10502
+PATIENT NAME: Lucas Vance
+AGE: 45
+SEX: Male
+PRIMARY DIAGNOSIS: Normal Advanced Cardiac Imaging & Strain Analysis
+PRESENTING SYMPTOMS: Executive health checkup and pre-participation sports clearance.
+MEDICAL HISTORY: No history of cardiac illness, normal lipid profile, physically active.
+SUSPECTED CONDITION: The patient has a Normal Cardiovascular Assessment with Preserved Strain and Intact Mechanics.
+CLINICAL PRIORITY: ROUTINE / LOW PRIORITY — Routine Annual Cardiovascular Wellness Screening

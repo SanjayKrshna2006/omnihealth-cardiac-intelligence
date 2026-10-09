@@ -1,0 +1,9 @@
+PATIENT ID: PT-10504
+PATIENT NAME: Claire Bennett
+AGE: 38
+SEX: Female
+PRIMARY DIAGNOSIS: Normal Cardiothoracic & Valvular Assessment
+PRESENTING SYMPTOMS: Routine wellness screening for life insurance medical certification.
+MEDICAL HISTORY: No cardiovascular complaints, non-smoker, normal blood pressure and lipid panel.
+SUSPECTED CONDITION: The patient has a Normal Cardiothoracic and Valvular Baseline with Preserved Function.
+CLINICAL PRIORITY: ROUTINE / LOW PRIORITY — Routine Annual Cardiovascular Wellness Screening

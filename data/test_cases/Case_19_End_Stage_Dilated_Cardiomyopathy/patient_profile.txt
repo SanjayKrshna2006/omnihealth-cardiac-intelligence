@@ -1,0 +1,9 @@
+PATIENT ID: PT-10505
+PATIENT NAME: Kwame Osei
+AGE: 50
+SEX: Male
+PRIMARY DIAGNOSIS: End-Stage Non-Ischemic Dilated Cardiomyopathy (INTERMACS 3, LVEF 22%)
+PRESENTING SYMPTOMS: Severe resting breathlessness (NYHA IV), orthopnea, cardiac cachexia, refractory peripheral edema, fatigue.
+MEDICAL HISTORY: Idiopathic dilated cardiomyopathy (8 years), progressive decline despite maximal medical therapy.
+SUSPECTED CONDITION: The patient may have End-Stage Non-Ischemic Dilated Cardiomyopathy (NYHA IV, LVEF 22%) with Biventricular Failure Requiring Advanced Support Evaluation.
+CLINICAL PRIORITY: CRITICAL / STAT — Inpatient Advanced Heart Failure Center Transfer (LVAD / Transplant Evaluation)

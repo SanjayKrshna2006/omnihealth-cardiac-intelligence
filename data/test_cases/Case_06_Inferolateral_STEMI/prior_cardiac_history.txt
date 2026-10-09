@@ -1,0 +1,12 @@
+PATIENT: David Miller (PT-10487)
+AGE: 67 | GENDER: Male
+DIAGNOSIS: Acute Inferolateral STEMI with Basal-Lateral Wall Akinesis (LVEF 42%)
+
+CLINICAL HISTORY & SUMMARY:
+67yo male diabetic presenting with acute diaphoresis, nausea, and burning epigastric discomfort radiating to back.
+
+ELECTROCARDIOGRAM (ECG) INTERPRETATION:
+Convex ST-segment elevation in leads II, III, aVF and V5-V6 with reciprocal ST depression in lead aVL.
+
+ECHOCARDIOGRAM (ECHO A4C) INTERPRETATION:
+Moderately reduced LVEF (42%) with marked basal and mid-lateral wall akinesis in LCx/RCA territory.

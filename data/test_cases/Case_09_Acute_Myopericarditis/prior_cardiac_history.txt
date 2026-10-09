@@ -1,0 +1,12 @@
+PATIENT: Chloe Dubois (PT-10490)
+AGE: 29 | GENDER: Female
+DIAGNOSIS: Acute Viral Myopericarditis with Diffuse PR Depression & Concave ST Elevation
+
+CLINICAL HISTORY & SUMMARY:
+29yo female presenting with sharp pleuritic chest pain that worsens when supine and improves when leaning forward.
+
+ELECTROCARDIOGRAM (ECG) INTERPRETATION:
+Widespread diffuse concave ST-segment elevations across leads I, II, aVF, V2-V6 with PR-segment depression in lead II and PR elevation in aVR.
+
+ECHOCARDIOGRAM (ECHO A4C) INTERPRETATION:
+Mild global left ventricular systolic blunting (LVEF 50%) with small circumferential pericardial effusion without tamponade.

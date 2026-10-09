@@ -1,0 +1,9 @@
+PATIENT ID: PT-10501
+PATIENT NAME: Maya Lin
+AGE: 35
+SEX: Female
+PRIMARY DIAGNOSIS: Normal Electrophysiological & Structural Cardiac Assessment
+PRESENTING SYMPTOMS: Pre-employment physical examination and routine baseline wellness screening.
+MEDICAL HISTORY: No known past medical history, no cardiovascular risk factors, non-smoker.
+SUSPECTED CONDITION: The patient has a Normal Electrophysiological and Structural Cardiac Profile with Preserved Function.
+CLINICAL PRIORITY: ROUTINE / LOW PRIORITY — Routine Annual Cardiovascular Wellness Screening

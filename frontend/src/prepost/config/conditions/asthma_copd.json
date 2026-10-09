@@ -1,0 +1,21 @@
+{
+  "id": "asthma_copd",
+  "name": "Asthma / COPD / Respiratory Disease",
+  "clinical_review": "pending_doctor_review",
+  "extension_days": 5,
+  "modifications": {
+    "checks": [
+      {
+        "name": "Peak Expiratory Flow / Pulse Oximetry",
+        "target": "SpO2 >= 95% on room air"
+      }
+    ],
+    "workout_instructions": [
+      "Keep rescue inhaler readily accessible during any physical walking session"
+    ],
+    "doctor_flags": [
+      "Pulmonary pre-operative evaluation indicated",
+      "Aggressive post-op incentive spirometry"
+    ]
+  }
+}

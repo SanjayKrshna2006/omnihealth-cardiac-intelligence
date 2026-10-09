@@ -1,0 +1,9 @@
+PATIENT ID: PT-10484
+PATIENT NAME: Sarah Jenkins
+AGE: 71
+SEX: Female
+PRIMARY DIAGNOSIS: Atrial Fibrillation with Rapid Ventricular Response (RVR)
+PRESENTING SYMPTOMS: Sudden-onset irregular racing palpitations, presyncope, fatigue, acute lightheadedness.
+MEDICAL HISTORY: Paroxysmal atrial fibrillation, coronary artery disease status-post DES (2020), mild CKD stage 3a.
+SUSPECTED CONDITION: The patient may have Atrial Fibrillation with Rapid Ventricular Response (RVR), Left Atrial Dilation, and Elevated Thromboembolic Risk.
+CLINICAL PRIORITY: HIGH PRIORITY — Urgent Rate Control & Systemic Anticoagulation

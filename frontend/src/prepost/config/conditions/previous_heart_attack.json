@@ -1,0 +1,24 @@
+{
+  "id": "previous_heart_attack",
+  "name": "Previous Heart Attack (Myocardial Infarction)",
+  "pending_doctor_review": true,
+  "extension_days": 7,
+  "modifications": {
+    "checks": [
+      {
+        "name": "Angina & Chest Tightness Screening",
+        "target": "Zero symptoms of pressure, squeezing, or radiating discomfort"
+      },
+      {
+        "name": "Resting Heart Rate & BP",
+        "target": "< 130/80 mmHg, 60-80 bpm"
+      }
+    ],
+    "meals_note": "Atherosclerosis-stabilizing low-saturated fat Mediterranean diet.",
+    "workout_cap": "light",
+    "doctor_flags": [
+      "Secondary prevention medication adherence mandatory",
+      "Immediate pause upon any angina recurrence"
+    ]
+  }
+}

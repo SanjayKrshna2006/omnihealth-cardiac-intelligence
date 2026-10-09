@@ -1,0 +1,23 @@
+{
+  "id": "kidney_disease",
+  "name": "Chronic Kidney Disease",
+  "clinical_review": "pending_doctor_review",
+  "extension_days": 10,
+  "modifications": {
+    "checks": [
+      {
+        "name": "Daily Morning Weight",
+        "target": "Stable within 1 kg"
+      },
+      {
+        "name": "Peripheral Edema Inspection",
+        "target": "No 2+ pitting pretibial edema"
+      }
+    ],
+    "meals_note": "Protein and potassium-conscious nutrition. Fluid balance as directed by nephrologist.",
+    "doctor_flags": [
+      "Avoid nephrotoxic NSAIDs post-surgery",
+      "Adjust medication dosages to renal clearance"
+    ]
+  }
+}

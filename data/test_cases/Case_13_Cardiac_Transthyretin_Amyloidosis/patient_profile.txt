@@ -1,0 +1,9 @@
+PATIENT ID: PT-10496
+PATIENT NAME: Yuki Tanaka
+AGE: 70
+SEX: Male
+PRIMARY DIAGNOSIS: Infiltrative Cardiac Transthyretin Amyloidosis (ATTR-CM)
+PRESENTING SYMPTOMS: Progressive heart failure with preserved ejection fraction symptoms, fatigue, bilateral ankle edema, dyspnea.
+MEDICAL HISTORY: Bilateral carpal tunnel release surgery 6 years ago, lumbar spinal stenosis, low voltage ECG with thick walls.
+SUSPECTED CONDITION: The patient may have Infiltrative Cardiac Transthyretin Amyloidosis (ATTR-CM) with Restrictive Cardiomyopathy and Apical Sparing Strain.
+CLINICAL PRIORITY: MODERATE PRIORITY — Advanced Diagnostic Scintigraphy (99mTc-PYP) & Tafamidis Evaluation

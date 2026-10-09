@@ -1,0 +1,18 @@
+{
+  "id": "blood_thinner_use",
+  "name": "Blood Thinner / Anticoagulant Use",
+  "clinical_review": "pending_doctor_review",
+  "extension_days": 3,
+  "follow_up_prompt": "Which anticoagulant/antiplatelet are you taking? (e.g. Warfarin, Eliquis, Plavix, Aspirin)",
+  "modifications": {
+    "checks": [
+      {
+        "name": "Unexplained Bruising or Bleeding Check",
+        "target": "No active gum bleeding or epistaxis"
+      }
+    ],
+    "doctor_flags": [
+      "PHYSICIAN ACTION REQUIRED: Specify exact days to hold/bridge blood thinner before surgery"
+    ]
+  }
+}

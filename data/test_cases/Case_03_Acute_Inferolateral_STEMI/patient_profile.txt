@@ -1,0 +1,9 @@
+PATIENT ID: PT-10487
+PATIENT NAME: David Miller
+AGE: 67
+SEX: Male
+PRIMARY DIAGNOSIS: Acute Inferolateral STEMI (LCx / RCA Occlusion)
+PRESENTING SYMPTOMS: Severe epigastric burning radiating to interscapular region, acute diaphoresis, nausea, weakness for 4 hours.
+MEDICAL HISTORY: Type 2 diabetes mellitus (insulin-dependent), essential hypertension, 40 pack-year smoking.
+SUSPECTED CONDITION: The patient may have Acute Inferolateral STEMI with Basal-Inferior Akinesis and Moderately Reduced LVEF (42%).
+CLINICAL PRIORITY: CRITICAL / STAT — Emergent Cardiac Catheterization & Primary PCI (<90 min)

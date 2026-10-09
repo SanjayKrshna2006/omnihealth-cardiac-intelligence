@@ -1,0 +1,9 @@
+PATIENT ID: PT-10507
+PATIENT NAME: Harold Finch
+AGE: 79
+SEX: Male
+PRIMARY DIAGNOSIS: Critical Calcific Aortic Stenosis Scheduled for TAVR / SAVR
+PRESENTING SYMPTOMS: Exertional syncope, angina during minimal walking, profound dyspnea on exertion.
+MEDICAL HISTORY: Bicuspid aortic valve, severe calcific stenosis, hypertension.
+SUSPECTED CONDITION: The patient may have Critical Calcific Aortic Stenosis (AVA 0.6 cm², Peak Velocity 4.7 m/s, Mean Gradient 52 mmHg) Scheduled for TAVR / SAVR.
+CLINICAL PRIORITY: HIGH PRIORITY — Urgent Structural Valve Replacement (TAVR / SAVR)

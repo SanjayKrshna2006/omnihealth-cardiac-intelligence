@@ -1,0 +1,12 @@
+PATIENT: Margaret Kim (PT-10492)
+AGE: 74 | GENDER: Female
+DIAGNOSIS: Chronic Ischemic Cardiomyopathy with Apical Left Ventricular Aneurysm (LVEF 26%)
+
+CLINICAL HISTORY & SUMMARY:
+74yo female with chronic heart failure presenting with lower extremity edema and orthopnea.
+
+ELECTROCARDIOGRAM (ECG) INTERPRETATION:
+Persistent ST elevations in V1-V4 with deep pathological Q waves, unchanged over 6 months indicating anatomical aneurysm formation.
+
+ECHOCARDIOGRAM (ECHO A4C) INTERPRETATION:
+Severe systolic dysfunction (LVEF 26%) with large, thin-walled, dyskinetic apical ventricular aneurysm and mural laminar thrombus.

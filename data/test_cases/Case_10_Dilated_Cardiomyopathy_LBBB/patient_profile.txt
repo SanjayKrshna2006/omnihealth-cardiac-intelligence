@@ -1,0 +1,9 @@
+PATIENT ID: PT-10486
+PATIENT NAME: Amina Diallo
+AGE: 49
+SEX: Female
+PRIMARY DIAGNOSIS: Non-Ischemic Dilated Cardiomyopathy (HFrEF) with Complete LBBB
+PRESENTING SYMPTOMS: Subacute progressive NYHA Class III heart failure symptoms over 4 months, orthopnea, bilateral lower extremity edema.
+MEDICAL HISTORY: Post-partum cardiomyopathy history (2018), persistent complete LBBB with ventricular dyssynchrony.
+SUSPECTED CONDITION: The patient may have Non-Ischemic Dilated Cardiomyopathy (HFrEF) with Complete LBBB (QRS 164 ms) and Severe Mechanical Dyssynchrony.
+CLINICAL PRIORITY: HIGH PRIORITY — Inpatient Guideline-Directed Medical Therapy & CRT-D Evaluation

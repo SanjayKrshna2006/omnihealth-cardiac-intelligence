@@ -1,0 +1,12 @@
+PATIENT: James Wilson (PT-10489)
+AGE: 78 | GENDER: Male
+DIAGNOSIS: Severe Calcific Aortic Valve Stenosis with Concentric Remodeling (AV Vmax 4.4 m/s)
+
+CLINICAL HISTORY & SUMMARY:
+78yo male presenting with progressive exertional angina, fatigue, and near-syncope while walking uphill.
+
+ELECTROCARDIOGRAM (ECG) INTERPRETATION:
+Left ventricular hypertrophy with prominent repolarization strain pattern (ST depression and T-wave inversion in V4-V6).
+
+ECHOCARDIOGRAM (ECHO A4C) INTERPRETATION:
+Severely calcified, restricted aortic valve leaflets (AVA 0.7 cm2, peak velocity 4.4 m/s, mean gradient 46 mmHg).

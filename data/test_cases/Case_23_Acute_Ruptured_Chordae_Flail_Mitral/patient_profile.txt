@@ -1,0 +1,9 @@
+PATIENT ID: PT-10508
+PATIENT NAME: Grace Van Pelt
+AGE: 55
+SEX: Female
+PRIMARY DIAGNOSIS: Severe Acute Mitral Regurgitation with P2 Flail Leaflet for Urgent Repair
+PRESENTING SYMPTOMS: Acute flash pulmonary edema, severe dyspnea, orthopnea, loud apical holosystolic murmur.
+MEDICAL HISTORY: Myxomatous mitral valve disease, developed acute chordal rupture 48 hours prior.
+SUSPECTED CONDITION: The patient may have Severe Acute Mitral Regurgitation Secondary to Ruptured Chordae Tendineae and P2 Flail Leaflet for Urgent Surgical Repair.
+CLINICAL PRIORITY: HIGH PRIORITY — Urgent Minimally Invasive / Robotic Mitral Valve Repair

@@ -1,0 +1,9 @@
+PATIENT ID: PT-10483
+PATIENT NAME: Marcus Chen
+AGE: 42
+SEX: Male
+PRIMARY DIAGNOSIS: Normal Sinus Rhythm & Intact Mechanical Function
+PRESENTING SYMPTOMS: Annual executive athletic cardiac screening. Asymptomatic endurance marathon runner.
+MEDICAL HISTORY: No known cardiovascular pathology. Baseline resting ECG normal.
+SUSPECTED CONDITION: The patient has a Normal Cardiovascular Baseline with Preserved Biventricular Function and Intact Conduction.
+CLINICAL PRIORITY: ROUTINE / LOW PRIORITY — Routine Annual Cardiovascular Wellness Screening

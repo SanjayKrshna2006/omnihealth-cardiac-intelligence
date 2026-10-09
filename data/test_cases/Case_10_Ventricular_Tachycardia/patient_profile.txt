@@ -1,0 +1,7 @@
+PATIENT ID: PT-10491
+PATIENT NAME: Carlos Morales
+AGE: 61
+SEX: Male
+PRIMARY DIAGNOSIS: Sustained Monomorphic VT
+PRESENTING SYMPTOMS: Sudden presyncope, intense pounding palpitations, hypotension, diaphoresis.
+MEDICAL HISTORY: Prior coronary artery bypass graft (CABG x3 in 2016), ischemic cardiomyopathy with apical myocardial scar.

@@ -1,0 +1,60 @@
+{
+  "id": "ablation",
+  "name": "Catheter Ablation (Arrhythmia)",
+  "specialty": "Cardiac Electrophysiology",
+  "pre_op_days": 2,
+  "expected_recovery_days": 14,
+  "phases": [
+    {
+      "id": "vascular_recovery",
+      "name": "Femoral Site Healing & Rhythm Monitoring",
+      "stage": "after",
+      "min_days": 7,
+      "clinical_note": "Groin puncture care, rhythm stabilization (blanking period precautions)",
+      "advance_criteria": {
+        "description": "Groin healed, rhythm stable without sustained arrhythmia",
+        "pain_max": 3
+      },
+      "templates": {
+        "meals": [
+          {
+            "name": "Anti-Inflammatory Breakfast",
+            "notes": "Berry smoothie or oatmeal with chia seeds"
+          },
+          {
+            "name": "Low-Sodium Lunch",
+            "notes": "Mixed vegetable and lentil stew"
+          },
+          {
+            "name": "Light Restorative Dinner",
+            "notes": "Steamed fish or tofu with leafy greens"
+          }
+        ],
+        "workout": {
+          "level": "light",
+          "duration_min": 12,
+          "instructions": [
+            "No heavy lifting > 10 lbs or squatting for 5 days",
+            "Short flat walks only (10-12 minutes)",
+            "Avoid submersion baths until groin site is fully closed"
+          ]
+        },
+        "checks": [
+          {
+            "name": "Groin Puncture Site",
+            "target": "Check femoral access for swelling, firmness, or bleeding"
+          },
+          {
+            "name": "Pulse Rhythm & Rate",
+            "target": "Check pulse regularly; report runs of rapid beats"
+          },
+          {
+            "name": "Blood Pressure Log",
+            "target": "BP 110-130 / 70-80 mmHg"
+          }
+        ],
+        "focus_note": "Allow the groin access sites to seal securely and monitor heart rhythm closely."
+      }
+    }
+  ]
+}

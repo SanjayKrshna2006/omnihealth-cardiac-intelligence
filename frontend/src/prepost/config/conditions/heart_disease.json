@@ -1,0 +1,24 @@
+{
+  "id": "heart_disease",
+  "name": "Coronary Artery Disease / Heart Disease",
+  "clinical_review": "pending_doctor_review",
+  "extension_days": 7,
+  "modifications": {
+    "checks": [
+      {
+        "name": "Resting Pulse & Rhythm",
+        "target": "60-90 bpm"
+      },
+      {
+        "name": "Angina / Dyspnea Assessment",
+        "target": "Zero chest pain or pressure"
+      }
+    ],
+    "meals_note": "Cardioprotective low-saturated fat Mediterranean nutrition.",
+    "workout_cap": "light",
+    "doctor_flags": [
+      "Cardiology clearance mandatory",
+      "Strict exertion limits"
+    ]
+  }
+}

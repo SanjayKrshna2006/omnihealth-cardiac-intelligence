@@ -1,0 +1,12 @@
+PATIENT: Carlos Morales (PT-10491)
+AGE: 61 | GENDER: Male
+DIAGNOSIS: Sustained Monomorphic Ventricular Tachycardia (165 bpm) with Post-Infarct Scar
+
+CLINICAL HISTORY & SUMMARY:
+61yo male with prior coronary bypass surgery presenting with sudden severe palpitations, dizziness, and hypotension.
+
+ELECTROCARDIOGRAM (ECG) INTERPRETATION:
+Wide complex regular tachycardia at 165 bpm (QRS 170 ms) with AV dissociation, positive concordance in chest leads, and fusion beats.
+
+ECHOCARDIOGRAM (ECHO A4C) INTERPRETATION:
+Severely reduced ejection fraction (LVEF 30%) with extensive anterior and apical wall thinning/akinesis and dyssynchronous ventricular pacing.

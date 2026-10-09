@@ -1,0 +1,7 @@
+PATIENT ID: PT-10490
+PATIENT NAME: Chloe Dubois
+AGE: 29
+SEX: Female
+PRIMARY DIAGNOSIS: Acute Viral Myopericarditis
+PRESENTING SYMPTOMS: Sharp substernal pleuritic chest pain exacerbated by lying flat and relieved by sitting forward, low-grade fever.
+MEDICAL HISTORY: Recent upper respiratory tract viral infection 10 days prior. No prior cardiovascular disease.

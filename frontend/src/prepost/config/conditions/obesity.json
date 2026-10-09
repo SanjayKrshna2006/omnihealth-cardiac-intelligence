@@ -1,0 +1,17 @@
+{
+  "id": "obesity",
+  "name": "Obesity (BMI >= 30)",
+  "clinical_review": "pending_doctor_review",
+  "extension_days": 5,
+  "modifications": {
+    "checks": [
+      {
+        "name": "Incision Skin Fold Hygiene",
+        "target": "Keep intertriginous areas dry"
+      }
+    ],
+    "doctor_flags": [
+      "Elevated DVT and atelectasis risk; early mobilization mandatory"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+PATIENT ID: PT-10486
+PATIENT NAME: Amina Diallo
+AGE: 49
+SEX: Female
+PRIMARY DIAGNOSIS: Non-Ischemic DCM & LBBB
+PRESENTING SYMPTOMS: Subacute progressive NYHA Class III heart failure symptoms over 4 months, orthopnea, bilateral lower extremity edema.
+MEDICAL HISTORY: Post-partum cardiomyopathy history (2018), persistent complete LBBB with ventricular dyssynchrony.

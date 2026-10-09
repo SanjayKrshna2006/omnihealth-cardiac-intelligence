@@ -1,0 +1,60 @@
+{
+  "id": "pacemaker",
+  "name": "Permanent Pacemaker Implantation",
+  "specialty": "Cardiac Electrophysiology",
+  "pre_op_days": 2,
+  "expected_recovery_days": 28,
+  "phases": [
+    {
+      "id": "pocket_healing",
+      "name": "Device Pocket Healing & Lead Protection",
+      "stage": "after",
+      "min_days": 14,
+      "clinical_note": "Do not raise affected arm above shoulder level for 4 weeks to prevent lead displacement",
+      "advance_criteria": {
+        "description": "Device pocket clean, no lead dislodgement, HR pacing verified",
+        "pain_max": 3
+      },
+      "templates": {
+        "meals": [
+          {
+            "name": "Nutrient-Dense Breakfast",
+            "notes": "Warm oatmeal with berries and almond butter"
+          },
+          {
+            "name": "Balanced Protein Lunch",
+            "notes": "Quinoa bowl with beans, roasted vegetables"
+          },
+          {
+            "name": "Restorative Dinner",
+            "notes": "Baked fish or tofu, steamed sweet potato and greens"
+          }
+        ],
+        "workout": {
+          "level": "light",
+          "duration_min": 15,
+          "instructions": [
+            "Do NOT raise operative arm above shoulder level",
+            "Do not lift more than 5 lbs with operative side",
+            "Gentle flat walking: 15 minutes twice daily"
+          ]
+        },
+        "checks": [
+          {
+            "name": "Pacemaker Pocket Site",
+            "target": "Subclavicular incision clean, dry, no swelling or discharge"
+          },
+          {
+            "name": "Resting Heart Rate Check",
+            "target": "Verify heart rate does not drop below programmed lower rate"
+          },
+          {
+            "name": "Dizziness & Palpitation Check",
+            "target": "No lightheadedness, hiccups, or fainting"
+          }
+        ],
+        "focus_note": "Protect the device pocket and prevent movement that could displace newly placed leads."
+      }
+    }
+  ]
+}

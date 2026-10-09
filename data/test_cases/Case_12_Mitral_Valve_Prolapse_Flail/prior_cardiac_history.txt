@@ -1,0 +1,12 @@
+PATIENT: Lucas Meyer (PT-10493)
+AGE: 52 | GENDER: Male
+DIAGNOSIS: Severe Mitral Valve Prolapse with Flail Posterior Leaflet and Eccentric Regurgitation
+
+CLINICAL HISTORY & SUMMARY:
+52yo male presenting with sudden onset acute dyspnea, orthopnea, and a holosystolic blowing murmur radiating to axilla.
+
+ELECTROCARDIOGRAM (ECG) INTERPRETATION:
+Sinus rhythm with biphasic P-waves in V1 (left atrial enlargement criteria) and non-specific inferolateral repolarization changes.
+
+ECHOCARDIOGRAM (ECHO A4C) INTERPRETATION:
+Flail posterior mitral leaflet (P2 segment) with torn chordae tendineae and severe anteriorly directed eccentric mitral regurgitation jet.

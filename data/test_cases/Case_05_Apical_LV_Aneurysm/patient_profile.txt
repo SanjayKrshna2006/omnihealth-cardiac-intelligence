@@ -1,0 +1,9 @@
+PATIENT ID: PT-10492
+PATIENT NAME: Arthur Pendelton
+AGE: 74
+SEX: Male
+PRIMARY DIAGNOSIS: Chronic Apical LV Aneurysm with Ischemic Cardiomyopathy & Mural Thrombus
+PRESENTING SYMPTOMS: Chronic congestive heart failure symptoms, orthopnea, paroxysmal nocturnal dyspnea, fatigue.
+MEDICAL HISTORY: Transmural anterior myocardial infarction 5 years ago, persistent apical dyskinesis with true aneurysmal pouch.
+SUSPECTED CONDITION: The patient may have Chronic Apical Left Ventricular Aneurysm with Severe Ischemic Cardiomyopathy (LVEF 26%) and Active Apical Mural Thrombus.
+CLINICAL PRIORITY: HIGH PRIORITY — Inpatient Anticoagulation Protocol & Quadruple GDMT Optimization

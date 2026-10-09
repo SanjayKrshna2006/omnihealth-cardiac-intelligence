@@ -1,0 +1,9 @@
+PATIENT ID: PT-10495
+PATIENT NAME: Henry Thorne
+AGE: 81
+SEX: Male
+PRIMARY DIAGNOSIS: Complete (3rd-Degree) Atrioventricular Block with Hemodynamic Bradycardia
+PRESENTING SYMPTOMS: Sudden syncopal episode while standing, severe lightheadedness, fatigue, resting pulse 38 bpm.
+MEDICAL HISTORY: Lev-Lenegre conducting system sclerosis, essential hypertension, prior transcatheter aortic valve implant.
+SUSPECTED CONDITION: The patient may have Complete (3rd-Degree) Atrioventricular Block with Symptomatic Stokes-Adams Syncope and Hemodynamic Bradycardia.
+CLINICAL PRIORITY: CRITICAL / STAT — Urgent Inpatient Cardiac Pacing & Transvenous Lead Setup

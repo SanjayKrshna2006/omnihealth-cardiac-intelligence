@@ -1,0 +1,158 @@
+{
+  "id": "cabg",
+  "name": "Coronary Artery Bypass Graft (CABG)",
+  "specialty": "Cardiovascular Surgery",
+  "pre_op_days": 5,
+  "expected_recovery_days": 56,
+  "phases": [
+    {
+      "id": "pre_op_prep",
+      "name": "Pre-Surgical Cardiac Prep",
+      "stage": "before",
+      "min_days": 4,
+      "clinical_note": "Chlorhexidine wash, spirometer practice, sternal precaution review",
+      "advance_criteria": {
+        "description": "Spirometer training completed, baseline BP in range",
+        "adherence_min": 0.8
+      },
+      "templates": {
+        "meals": [
+          {
+            "name": "Heart-Healthy Oatmeal",
+            "notes": "Low sodium, fresh berries, walnuts"
+          },
+          {
+            "name": "Lean Protein & Greens Lunch",
+            "notes": "Grilled salmon or tofu salad with olive oil"
+          },
+          {
+            "name": "Light Steamed Dinner",
+            "notes": "Steamed vegetables, lentils or chicken, whole grains"
+          }
+        ],
+        "workout": {
+          "level": "light",
+          "duration_min": 15,
+          "instructions": [
+            "Deep diaphragmatic breathing: 10 breaths every 2 hours",
+            "Incentive spirometer practice: 10 reps per session",
+            "Gentle hallway walk: 10-15 minutes"
+          ]
+        },
+        "checks": [
+          {
+            "name": "Blood Pressure & Heart Rate",
+            "target": "110-135 / 70-85 mmHg, HR 60-90"
+          },
+          {
+            "name": "Morning Weight Check",
+            "target": "Record baseline dry weight"
+          }
+        ],
+        "focus_note": "Prepare respiratory muscles and keep vitals stable prior to bypass surgery."
+      }
+    },
+    {
+      "id": "acute_sternal",
+      "name": "Acute Sternal & Graft Healing",
+      "stage": "after",
+      "min_days": 14,
+      "clinical_note": "Strict sternal precautions: no lifting > 5 lbs, support sternum when coughing",
+      "advance_criteria": {
+        "description": "Sternal stability maintained, no signs of wound infection",
+        "pain_max": 4
+      },
+      "templates": {
+        "meals": [
+          {
+            "name": "Low-Sodium Recovery Breakfast",
+            "notes": "Poached eggs, avocado, whole wheat toast (< 300mg sodium)"
+          },
+          {
+            "name": "Tissue Repair Lunch",
+            "notes": "Lentil or grilled poultry bowl with steamed greens"
+          },
+          {
+            "name": "Cardioprotective Dinner",
+            "notes": "Baked fish, sweet potato, green beans"
+          }
+        ],
+        "workout": {
+          "level": "light",
+          "duration_min": 10,
+          "instructions": [
+            "Strict sternal precautions: hug pillow when coughing",
+            "Incentive spirometry: 10 breaths every 2 hours while awake",
+            "Short assisted flat walks: 5-10 minutes, 2x daily"
+          ]
+        },
+        "checks": [
+          {
+            "name": "Chest Sternal Wound & Leg Vein Harvest Site",
+            "target": "Clean, dry, no redness or drainage"
+          },
+          {
+            "name": "Blood Pressure & Heart Rate",
+            "target": "100-135 / 60-85 mmHg"
+          },
+          {
+            "name": "Daily Morning Weight",
+            "target": "Check for fluid retention (alert if +2 lbs in 24h)"
+          }
+        ],
+        "focus_note": "Protect the sternal bone healing and monitor harvest incisions closely."
+      }
+    },
+    {
+      "id": "cardiac_rehab_transition",
+      "name": "Phase II Cardiac Conditioning",
+      "stage": "after",
+      "min_days": 28,
+      "clinical_note": "Gradual cardiovascular endurance progression",
+      "advance_criteria": {
+        "description": "Walking 25 mins without dyspnea or chest discomfort",
+        "adherence_min": 0.85
+      },
+      "templates": {
+        "meals": [
+          {
+            "name": "Fiber-Rich Heart Breakfast",
+            "notes": "Oat bran with chia seeds and almond milk"
+          },
+          {
+            "name": "Mediterranean Grain Bowl",
+            "notes": "Brown rice, chickpeas, roasted vegetables"
+          },
+          {
+            "name": "Omega-3 Rich Dinner",
+            "notes": "Grilled trout or baked tempeh with asparagus"
+          }
+        ],
+        "workout": {
+          "level": "normal",
+          "duration_min": 25,
+          "instructions": [
+            "Brisk flat walking: 20-25 minutes daily",
+            "Gentle shoulder mobility and postural stretching",
+            "Avoid heavy push/pull or lifting > 10 lbs until 8 weeks post-op"
+          ]
+        },
+        "checks": [
+          {
+            "name": "Resting & Post-Walk Heart Rate",
+            "target": "Resting < 85 bpm, recovery within 5 mins"
+          },
+          {
+            "name": "Daily Weight Check",
+            "target": "Fluid balance monitoring"
+          },
+          {
+            "name": "Blood Pressure Log",
+            "target": "< 130/80 mmHg"
+          }
+        ],
+        "focus_note": "Rebuild cardiac stamina and maintain strict heart-healthy dietary habits."
+      }
+    }
+  ]
+}

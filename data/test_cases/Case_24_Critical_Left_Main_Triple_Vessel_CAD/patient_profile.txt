@@ -1,0 +1,9 @@
+PATIENT ID: PT-10509
+PATIENT NAME: Dmitri Volkov
+AGE: 68
+SEX: Male
+PRIMARY DIAGNOSIS: Critical Left Main & Triple-Vessel CAD with Global Subendocardial Ischemia
+PRESENTING SYMPTOMS: Resting angina, diaphoresis, exertional chest pain on minimal effort, dyspnea.
+MEDICAL HISTORY: Type 2 diabetes mellitus, peripheral artery disease, severe CAD, 40 pack-year smoking.
+SUSPECTED CONDITION: The patient may have Critical Left Main & Triple-Vessel Coronary Artery Disease with Global Subendocardial Ischemia (LVEF 40%) Scheduled for CABG x 3.
+CLINICAL PRIORITY: CRITICAL / STAT — Emergent Cardiac Catheterization & Inpatient CABG Evaluation

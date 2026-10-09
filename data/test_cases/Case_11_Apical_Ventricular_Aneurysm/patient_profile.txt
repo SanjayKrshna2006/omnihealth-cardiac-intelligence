@@ -1,0 +1,7 @@
+PATIENT ID: PT-10492
+PATIENT NAME: Margaret Kim
+AGE: 74
+SEX: Female
+PRIMARY DIAGNOSIS: Apical LV Aneurysm & Chronic MI
+PRESENTING SYMPTOMS: Chronic congestive heart failure symptoms, orthopnea, paroxysmal nocturnal dyspnea, fatigue.
+MEDICAL HISTORY: Transmural anterior myocardial infarction 5 years ago, persistent apical dyskinesis with true aneurysmal pouch.

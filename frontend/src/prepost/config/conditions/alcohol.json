@@ -1,0 +1,24 @@
+{
+  "id": "alcohol",
+  "name": "Alcohol Use History",
+  "pending_doctor_review": true,
+  "extension_days": 3,
+  "modifications": {
+    "checks": [
+      {
+        "name": "Pre-Op Alcohol Cessation Verification",
+        "target": "Strict abstinence confirmed"
+      },
+      {
+        "name": "Tremor, Sweating & Agitation Screen",
+        "target": "Zero withdrawal symptoms"
+      }
+    ],
+    "meals_note": "Thiamine and B-complex vitamin nutritional fortification, liver-gentle meals.",
+    "workout_cap": "light",
+    "doctor_flags": [
+      "Strict surgical abstinence protocol",
+      "Anesthesia interaction risk mitigation"
+    ]
+  }
+}

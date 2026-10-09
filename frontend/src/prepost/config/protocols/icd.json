@@ -1,0 +1,60 @@
+{
+  "id": "icd",
+  "name": "Implantable Cardioverter Defibrillator (ICD)",
+  "specialty": "Cardiac Electrophysiology",
+  "pre_op_days": 2,
+  "expected_recovery_days": 28,
+  "phases": [
+    {
+      "id": "pocket_healing",
+      "name": "ICD Pocket Healing & Shock Preparedness",
+      "stage": "after",
+      "min_days": 14,
+      "clinical_note": "Pocket protection, arm restriction, review what to do if shock is delivered",
+      "advance_criteria": {
+        "description": "Pocket healed, pacing stable, no inappropriate shocks",
+        "pain_max": 3
+      },
+      "templates": {
+        "meals": [
+          {
+            "name": "Electrolyte-Balanced Breakfast",
+            "notes": "Oatmeal, banana (potassium balance), pumpkin seeds (magnesium)"
+          },
+          {
+            "name": "Heart-Healthy Lunch",
+            "notes": "Grilled poultry or legumes, spinach salad, olive oil"
+          },
+          {
+            "name": "Light Digestible Dinner",
+            "notes": "Baked white fish or lentils with zucchini"
+          }
+        ],
+        "workout": {
+          "level": "light",
+          "duration_min": 15,
+          "instructions": [
+            "Keep operative arm below shoulder height for 4 weeks",
+            "Gentle walking: 10-15 minutes on level ground",
+            "Avoid contact sports or direct pressure on device"
+          ]
+        },
+        "checks": [
+          {
+            "name": "ICD Pocket Inspection",
+            "target": "No redness, warmth, hematoma, or discharge"
+          },
+          {
+            "name": "Heart Rate & Rhythm Log",
+            "target": "Ensure rate is above programmed baseline"
+          },
+          {
+            "name": "Palpitation / Pre-Syncope Check",
+            "target": "Report any flutter sensations or near-fainting immediately"
+          }
+        ],
+        "focus_note": "Ensure stable lead placement and understand emergency procedures for device discharge."
+      }
+    }
+  ]
+}

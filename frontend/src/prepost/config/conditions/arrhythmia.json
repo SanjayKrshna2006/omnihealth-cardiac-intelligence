@@ -1,0 +1,24 @@
+{
+  "id": "arrhythmia",
+  "name": "Arrhythmia (AFib / Flutter / Tachycardia)",
+  "pending_doctor_review": true,
+  "extension_days": 5,
+  "modifications": {
+    "checks": [
+      {
+        "name": "Pulse Rhythm & Palpitation Check",
+        "target": "Record regular rhythm, report sudden rapid or irregular fluttering"
+      },
+      {
+        "name": "Dizziness & Syncope Screen",
+        "target": "Zero lightheadedness, near-fainting, or unsteadiness"
+      }
+    ],
+    "meals_note": "Avoid excessive caffeine, energy drinks, and alcohol; electrolyte balanced meals.",
+    "workout_cap": "light",
+    "doctor_flags": [
+      "Rate or rhythm control medication adherence",
+      "Immediate pause if rapid irregular heart rate occurs"
+    ]
+  }
+}

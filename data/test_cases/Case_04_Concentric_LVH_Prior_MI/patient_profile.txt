@@ -1,0 +1,9 @@
+PATIENT ID: PT-10485
+PATIENT NAME: Robert Kowalski
+AGE: 58
+SEX: Male
+PRIMARY DIAGNOSIS: Concentric Left Ventricular Hypertrophy & Prior Silent Inferior MI
+PRESENTING SYMPTOMS: Exertional dyspnea on climbing 2 flights of stairs, mild fatigue, episodic non-radiating chest tightness.
+MEDICAL HISTORY: 15-year history of poorly controlled essential hypertension, obesity (BMI 31.4), hypertriglyceridemia.
+SUSPECTED CONDITION: The patient may have Concentric Left Ventricular Hypertrophy (LVH) with Chronic Hypertensive Myopathy and Prior Silent Inferior Scar.
+CLINICAL PRIORITY: MODERATE PRIORITY — Outpatient Blood Pressure Optimization & Target Organ Surveillance

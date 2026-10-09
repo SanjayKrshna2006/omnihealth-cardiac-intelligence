@@ -1,0 +1,17 @@
+{
+  "id": "smoking",
+  "name": "Smoking / Tobacco Use",
+  "clinical_review": "pending_doctor_review",
+  "extension_days": 5,
+  "modifications": {
+    "checks": [
+      {
+        "name": "Tobacco Cessation Days Log",
+        "target": "Complete tobacco avoidance"
+      }
+    ],
+    "doctor_flags": [
+      "Cessation >= 4 weeks prior to surgery significantly decreases wound complications"
+    ]
+  }
+}

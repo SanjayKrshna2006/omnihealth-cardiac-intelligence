@@ -1,0 +1,12 @@
+PATIENT: Sofia Rossi (PT-10488)
+AGE: 38 | GENDER: Female
+DIAGNOSIS: Hypertrophic Obstructive Cardiomyopathy (HOCM) with Asymmetric Septal Hypertrophy (IVS 22mm)
+
+CLINICAL HISTORY & SUMMARY:
+38yo female presenting with exertional presyncope and harsh systolic ejection murmur along left sternal border.
+
+ELECTROCARDIOGRAM (ECG) INTERPRETATION:
+Marked voltage criteria for LVH with deep dagger-like septal Q waves in lateral leads (I, aVL, V5-V6).
+
+ECHOCARDIOGRAM (ECHO A4C) INTERPRETATION:
+Hyperdynamic preserved ejection fraction (LVEF 72%), asymmetric septal thickness 22 mm, Systolic Anterior Motion (SAM) of mitral valve.

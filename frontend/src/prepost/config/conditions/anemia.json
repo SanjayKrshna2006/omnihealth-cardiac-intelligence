@@ -1,0 +1,18 @@
+{
+  "id": "anemia",
+  "name": "Anemia",
+  "clinical_review": "pending_doctor_review",
+  "extension_days": 4,
+  "modifications": {
+    "checks": [
+      {
+        "name": "Orthostatic Dizziness Check",
+        "target": "No lightheadedness when rising from chair"
+      }
+    ],
+    "meals_note": "Iron-rich diet (spinach, lentils, vitamin C to enhance absorption).",
+    "doctor_flags": [
+      "Pre-operative hemoglobin optimization protocol"
+    ]
+  }
+}

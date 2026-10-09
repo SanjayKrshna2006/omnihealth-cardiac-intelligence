@@ -1,0 +1,7 @@
+PATIENT ID: PT-10487
+PATIENT NAME: David Miller
+AGE: 67
+SEX: Male
+PRIMARY DIAGNOSIS: Acute Inferolateral STEMI
+PRESENTING SYMPTOMS: Severe epigastric burning radiating to interscapular region, acute diaphoresis, nausea, weakness for 4 hours.
+MEDICAL HISTORY: Type 2 diabetes mellitus (insulin-dependent), essential hypertension, 40 pack-year smoking.

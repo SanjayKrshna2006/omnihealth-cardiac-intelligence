@@ -1,0 +1,12 @@
+PATIENT: Richard Hansen (PT-10495)
+AGE: 82 | GENDER: Male
+DIAGNOSIS: Symptomatic 2nd Degree Mobitz Type II Atrioventricular Block (Ventricular Rate 44 bpm)
+
+CLINICAL HISTORY & SUMMARY:
+82yo male presenting following sudden unprovoked syncope while gardening. No preceding aura or palpitations.
+
+ELECTROCARDIOGRAM (ECG) INTERPRETATION:
+Sinus rhythm with intermittent, non-conducted P-waves with constant PR intervals (2:1 and 3:2 conduction block). Right Bundle Branch Block morphology.
+
+ECHOCARDIOGRAM (ECHO A4C) INTERPRETATION:
+Preserved left ventricular systolic function (LVEF 54%) with normal chamber geometry and preserved wall motion.

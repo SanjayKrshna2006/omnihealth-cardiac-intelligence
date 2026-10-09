@@ -1,0 +1,107 @@
+{
+  "id": "valve_replacement",
+  "name": "Heart Valve Replacement (Aortic / Mitral)",
+  "specialty": "Cardiovascular Surgery",
+  "pre_op_days": 5,
+  "expected_recovery_days": 42,
+  "phases": [
+    {
+      "id": "pre_op_prep",
+      "name": "Pre-Op Hemodynamic Stabilization",
+      "stage": "before",
+      "min_days": 4,
+      "clinical_note": "Review anticoagulation guidelines and pulmonary hygiene",
+      "advance_criteria": {
+        "description": "Pre-op assessment clear, vitals in target",
+        "adherence_min": 0.8
+      },
+      "templates": {
+        "meals": [
+          {
+            "name": "Balanced Heart Breakfast",
+            "notes": "Consistent dietary vitamin K intake if on warfarin"
+          },
+          {
+            "name": "Lean Protein Lunch",
+            "notes": "Grilled turkey or bean stew with leafy greens"
+          },
+          {
+            "name": "Steamed Vegetable Dinner",
+            "notes": "Brown rice with roasted squash and fish"
+          }
+        ],
+        "workout": {
+          "level": "light",
+          "duration_min": 15,
+          "instructions": [
+            "Incentive spirometer: 10 breaths every 2 hours",
+            "Deep breathing & relaxation exercises",
+            "Paced flat hallway walk: 10 mins"
+          ]
+        },
+        "checks": [
+          {
+            "name": "Blood Pressure & Heart Rate",
+            "target": "BP < 130/80, HR regular"
+          },
+          {
+            "name": "Daily Weight",
+            "target": "Baseline weight recorded"
+          }
+        ],
+        "focus_note": "Maintain steady nutritional intake and prepare respiratory capacity."
+      }
+    },
+    {
+      "id": "acute_recovery",
+      "name": "Early Hemodynamic & Sternal Care",
+      "stage": "after",
+      "min_days": 14,
+      "clinical_note": "Rhythm stability, sternal protection, anticoagulation monitoring",
+      "advance_criteria": {
+        "description": "Normal heart sounds, sternum stable, INR in target",
+        "pain_max": 4
+      },
+      "templates": {
+        "meals": [
+          {
+            "name": "Consistent Vitamin K Breakfast",
+            "notes": "Balanced eggs and oats, steady vitamin K"
+          },
+          {
+            "name": "Low Sodium Recovery Bowl",
+            "notes": "Lentil soup, sweet potato, olive oil"
+          },
+          {
+            "name": "Lean Heart Dinner",
+            "notes": "Steamed cod or tofu with green beans"
+          }
+        ],
+        "workout": {
+          "level": "light",
+          "duration_min": 12,
+          "instructions": [
+            "Strict sternal precautions: no pushing up with arms",
+            "Incentive spirometry: 10 breaths every 2 hours",
+            "Hallway walking: 10-12 minutes 2x daily"
+          ]
+        },
+        "checks": [
+          {
+            "name": "Sternal Incision Inspection",
+            "target": "Incision intact, no redness or warmth"
+          },
+          {
+            "name": "Heart Rate & Rhythm Check",
+            "target": "Check for irregular beats or palpitations"
+          },
+          {
+            "name": "Daily Weight (Fluid Check)",
+            "target": "No sudden gain > 2 lbs in 24h"
+          }
+        ],
+        "focus_note": "Monitor valve function, maintain steady anticoagulation, and protect the sternum."
+      }
+    }
+  ]
+}

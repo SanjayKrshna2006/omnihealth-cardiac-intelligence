@@ -1,0 +1,9 @@
+PATIENT ID: PT-10503
+PATIENT NAME: Oliver Queen
+AGE: 40
+SEX: Male
+PRIMARY DIAGNOSIS: Normal Functional Cardiac Baseline
+PRESENTING SYMPTOMS: Annual corporate health assessment. Active martial arts trainer, fully asymptomatic.
+MEDICAL HISTORY: No cardiovascular history, no family history of sudden death.
+SUSPECTED CONDITION: The patient has a Normal Cardiovascular Baseline with Preserved Left Ventricular Systolic and Diastolic Function.
+CLINICAL PRIORITY: ROUTINE / LOW PRIORITY — Routine Annual Cardiovascular Wellness Screening

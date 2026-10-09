@@ -1,0 +1,18 @@
+{
+  "id": "high_blood_pressure",
+  "name": "Hypertension (High Blood Pressure)",
+  "clinical_review": "pending_doctor_review",
+  "extension_days": 3,
+  "modifications": {
+    "checks": [
+      {
+        "name": "Twice Daily Resting Blood Pressure",
+        "target": "< 135/85 mmHg"
+      }
+    ],
+    "meals_note": "Strict DASH / low-sodium diet (<1500mg daily sodium). Avoid canned and processed foods.",
+    "doctor_flags": [
+      "Review beta-blocker and ACE-inhibitor timing before surgery"
+    ]
+  }
+}

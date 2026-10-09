@@ -1,0 +1,9 @@
+PATIENT ID: PT-10510
+PATIENT NAME: Natalia Romanova
+AGE: 41
+SEX: Female
+PRIMARY DIAGNOSIS: Severe Drug-Refractory HOCM Scheduled for Surgical Septal Myectomy
+PRESENTING SYMPTOMS: Recurrent exertional presyncope, NYHA Class III dyspnea despite maximal beta-blocker therapy, angina.
+MEDICAL HISTORY: Known obstructive HCM, refractory to maximal tolerated Metoprolol and Disopyramide.
+SUSPECTED CONDITION: The patient may have Severe Drug-Refractory Hypertrophic Obstructive Cardiomyopathy (IVS 24 mm, Peak LVOT Gradient 84 mmHg) Scheduled for Surgical Septal Myectomy.
+CLINICAL PRIORITY: HIGH PRIORITY — Surgical Transaortic Morrow Septal Myectomy Evaluation

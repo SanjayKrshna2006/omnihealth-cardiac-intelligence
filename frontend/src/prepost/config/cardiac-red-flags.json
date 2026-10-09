@@ -1,0 +1,31 @@
+{
+  "red_flag_symptoms": [
+    "chest pain",
+    "chest pressure",
+    "crushing pain",
+    "shortness of breath at rest",
+    "breathlessness at rest",
+    "fainting",
+    "passed out",
+    "syncope",
+    "rapid weight gain (>2 lbs in 24 hours)",
+    "wound redness or drainage",
+    "incision separation",
+    "fever above 101F / 38.3C",
+    "palpitations with dizziness",
+    "irregular rapid heart rate"
+  ],
+  "default_vital_limits": {
+    "systolicMax": 145,
+    "systolicMin": 90,
+    "diastolicMax": 90,
+    "diastolicMin": 60,
+    "heartRateMax": 100,
+    "heartRateMin": 50,
+    "sugarMax": 180,
+    "sugarMin": 70,
+    "weightGain24hLbsMax": 2.5,
+    "painWarn": 5,
+    "painEmergency": 8
+  }
+}

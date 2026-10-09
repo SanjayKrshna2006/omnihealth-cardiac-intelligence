@@ -1,0 +1,9 @@
+PATIENT ID: PT-10488
+PATIENT NAME: Sofia Rossi
+AGE: 38
+SEX: Female
+PRIMARY DIAGNOSIS: Hypertrophic Obstructive Cardiomyopathy (HOCM) with Severe LVOT Gradient
+PRESENTING SYMPTOMS: Exertional lightheadedness, postprandial dyspnea, non-anginal atypical chest tightness, loud systolic ejection murmur.
+MEDICAL HISTORY: Family history of premature sudden cardiac death in first-degree relative at age 42. Asymmetric septal hypertrophy.
+SUSPECTED CONDITION: The patient may have Hypertrophic Obstructive Cardiomyopathy (HOCM) with Severe Asymmetric Septal Hypertrophy (22 mm), SAM, and Dynamic LVOT Gradient (68 mmHg).
+CLINICAL PRIORITY: HIGH PRIORITY — Specialized Cardiomyopathy Center Referral & Sudden Death Risk Stratification

@@ -1,0 +1,102 @@
+{
+  "id": "angioplasty_stent",
+  "name": "Angioplasty with Stent (PCI)",
+  "specialty": "Interventional Cardiology",
+  "pre_op_days": 2,
+  "expected_recovery_days": 21,
+  "phases": [
+    {
+      "id": "pre_procedure",
+      "name": "Pre-PCI Hydration & Prep",
+      "stage": "before",
+      "min_days": 1,
+      "clinical_note": "Ensure adequate oral hydration, verify antiplatelet status",
+      "advance_criteria": {
+        "description": "Lab checks verified, hydration maintained",
+        "adherence_min": 0.9
+      },
+      "templates": {
+        "meals": [
+          {
+            "name": "Light Hydrating Breakfast",
+            "notes": "Hydration focus, oatmeal with fruit"
+          },
+          {
+            "name": "Clean Lean Lunch",
+            "notes": "Quinoa bowl with steamed vegetables"
+          },
+          {
+            "name": "Early Light Dinner",
+            "notes": "Clear broth, steamed chicken or lentils"
+          }
+        ],
+        "workout": {
+          "level": "light",
+          "duration_min": 10,
+          "instructions": [
+            "Relaxed flat walk: 10 minutes",
+            "Gentle stretching"
+          ]
+        },
+        "checks": [
+          {
+            "name": "Blood Pressure & Heart Rate",
+            "target": "< 135/85 mmHg, HR 60-85"
+          }
+        ],
+        "focus_note": "Keep hydrated and calm before interventional catheterization."
+      }
+    },
+    {
+      "id": "access_site_recovery",
+      "name": "Puncture Site & Antiplatelet Phase",
+      "stage": "after",
+      "min_days": 7,
+      "clinical_note": "Strict access site care (groin or wrist). Dual antiplatelet compliance.",
+      "advance_criteria": {
+        "description": "Puncture site healed, no bleeding or hematoma",
+        "pain_max": 3
+      },
+      "templates": {
+        "meals": [
+          {
+            "name": "Low-Sodium Mediterranean Breakfast",
+            "notes": "Avocado on whole grain toast, berries"
+          },
+          {
+            "name": "Cardioprotective Lunch",
+            "notes": "Mixed greens, grilled salmon/tofu, lemon olive oil dressing"
+          },
+          {
+            "name": "Light High-Fiber Dinner",
+            "notes": "Lentils with spinach and brown rice"
+          }
+        ],
+        "workout": {
+          "level": "light",
+          "duration_min": 15,
+          "instructions": [
+            "No heavy lifting > 5 lbs with punctured wrist or arm for 48 hours",
+            "Avoid strenuous stair climbing if femoral access was used",
+            "Flat leisurely walks: 10-15 minutes"
+          ]
+        },
+        "checks": [
+          {
+            "name": "Groin or Wrist Puncture Site",
+            "target": "No swelling, firmness, bleeding, or bruising spreading"
+          },
+          {
+            "name": "Blood Pressure & Heart Rate",
+            "target": "BP 110-130 / 70-80 mmHg"
+          },
+          {
+            "name": "Chest Sensation Check",
+            "target": "No recurrence of angina or pressure"
+          }
+        ],
+        "focus_note": "Protect the vascular entry point and adhere strictly to blood thinner therapy."
+      }
+    }
+  ]
+}

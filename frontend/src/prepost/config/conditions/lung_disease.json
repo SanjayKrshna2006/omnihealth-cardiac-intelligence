@@ -1,0 +1,24 @@
+{
+  "id": "lung_disease",
+  "name": "Lung Disease (COPD / Asthma / Pulmonary)",
+  "pending_doctor_review": true,
+  "extension_days": 5,
+  "modifications": {
+    "checks": [
+      {
+        "name": "Resting Oxygen Saturation (SpO2)",
+        "target": ">= 94% on room air (or prescribed baseline)"
+      },
+      {
+        "name": "Incentive Spirometry Practice",
+        "target": "10 breaths every 2 waking hours"
+      }
+    ],
+    "meals_note": "Smaller, frequent meals to avoid diaphragmatic pressure.",
+    "workout_cap": "light",
+    "doctor_flags": [
+      "Pulmonary prehab and spirometry compliance essential",
+      "Monitor for bronchospasm or oxygen desaturation"
+    ]
+  }
+}

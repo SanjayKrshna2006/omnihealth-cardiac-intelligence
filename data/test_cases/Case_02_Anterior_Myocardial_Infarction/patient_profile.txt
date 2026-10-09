@@ -1,0 +1,7 @@
+PATIENT ID: PT-10482
+PATIENT NAME: Eleanor Vance
+AGE: 64
+SEX: Female
+PRIMARY DIAGNOSIS: Acute Anterior STEMI
+PRESENTING SYMPTOMS: Acute retrosternal crushing chest pain radiating to left arm and jaw (3 hours duration), diaphoresis, dyspnea on minimal exertion.
+MEDICAL HISTORY: Essential hypertension (12 years), hyperlipidemia, 25 pack-year smoking. No prior PCI or CABG.

@@ -1,0 +1,9 @@
+PATIENT ID: PT-10494
+PATIENT NAME: Elena Rostova
+AGE: 66
+SEX: Female
+PRIMARY DIAGNOSIS: Takotsubo (Stress-Induced / Broken Heart) Cardiomyopathy
+PRESENTING SYMPTOMS: Acute retrosternal chest pain and shortness of breath immediately following severe emotional stress, nausea.
+MEDICAL HISTORY: Post-menopausal female with osteoporosis and mild hypertension. No prior documented coronary disease.
+SUSPECTED CONDITION: The patient may have Takotsubo (Stress-Induced / Broken Heart) Cardiomyopathy with Classic Apical Ballooning and Transient Systolic Dysfunction.
+CLINICAL PRIORITY: HIGH PRIORITY — Coronary Exclusion Angiography & Inpatient Supportive Care

@@ -1,0 +1,9 @@
+PATIENT ID: PT-10493
+PATIENT NAME: Priya Patel
+AGE: 53
+SEX: Female
+PRIMARY DIAGNOSIS: Severe Acute Mitral Regurgitation with Flail Posterior Leaflet (P2)
+PRESENTING SYMPTOMS: Sudden onset severe exertional dyspnea, dry cough, orthopnea following acute chordal rupture, loud pansystolic murmur.
+MEDICAL HISTORY: Known mild myxomatous mitral valve disease; developed acute worsening over past 72 hours.
+SUSPECTED CONDITION: The patient may have Severe Acute Mitral Regurgitation Secondary to Ruptured Chordae Tendineae and Flail Posterior Leaflet (P2 Segment).
+CLINICAL PRIORITY: HIGH PRIORITY — Urgent Surgical Valve Repair / MitraClip Evaluation

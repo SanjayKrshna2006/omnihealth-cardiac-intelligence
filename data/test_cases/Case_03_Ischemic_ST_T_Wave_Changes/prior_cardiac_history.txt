@@ -1,0 +1,6 @@
+PRIMARY CARE CLINIC NOTE (2025-01-15):
+Age: 59, Gender: Female.
+Follow-up for essential hypertension.
+Prior ECG (2023): Normal sinus rhythm without ST-T deviations.
+Recent Presentation: Mild exertional fatigue, new lateral T-wave flattening.
+Assessment: Need comparative ECG and Echo evaluation to differentiate ischemic strain vs LVH.

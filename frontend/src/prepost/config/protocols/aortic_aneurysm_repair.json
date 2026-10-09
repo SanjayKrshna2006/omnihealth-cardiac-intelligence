@@ -1,0 +1,60 @@
+{
+  "id": "aortic_aneurysm_repair",
+  "name": "Aortic Aneurysm Repair (Endovascular / Open)",
+  "specialty": "Cardiovascular Surgery",
+  "pre_op_days": 5,
+  "expected_recovery_days": 42,
+  "phases": [
+    {
+      "id": "strict_bp_recovery",
+      "name": "Strict Blood Pressure Management & Graft Healing",
+      "stage": "after",
+      "min_days": 14,
+      "clinical_note": "Strict systolic BP ceiling to protect the aortic repair",
+      "advance_criteria": {
+        "description": "Systolic BP strictly < 130 mmHg, incisions healing well",
+        "pain_max": 3
+      },
+      "templates": {
+        "meals": [
+          {
+            "name": "Strict Low-Sodium Breakfast",
+            "notes": "Oatmeal with fruit (< 150mg sodium)"
+          },
+          {
+            "name": "Cardioprotective Low-Sodium Lunch",
+            "notes": "Fresh vegetable salad with grilled protein, no added salt"
+          },
+          {
+            "name": "Potassium-Rich Dinner",
+            "notes": "Baked potato, steamed green beans, grilled fish"
+          }
+        ],
+        "workout": {
+          "level": "light",
+          "duration_min": 12,
+          "instructions": [
+            "Strictly NO straining, heavy lifting, or pushing",
+            "Gentle flat walking: 10-15 minutes",
+            "Keep exertion low to prevent spikes in blood pressure"
+          ]
+        },
+        "checks": [
+          {
+            "name": "Blood Pressure (Twice Daily)",
+            "target": "Systolic strictly < 130 mmHg, Diastolic < 80 mmHg"
+          },
+          {
+            "name": "Incision & Puncture Sites",
+            "target": "No pulsing mass, hematoma, or wound discharge"
+          },
+          {
+            "name": "Lower Extremity Circulation",
+            "target": "Warm feet, normal pedal pulses and sensation"
+          }
+        ],
+        "focus_note": "Strict blood pressure control is vital to protect the aortic repair zone."
+      }
+    }
+  ]
+}

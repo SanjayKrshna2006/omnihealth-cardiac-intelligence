@@ -1,0 +1,6 @@
+CARDIOLOGY INPATIENT DISCHARGE SUMMARY (2023-11-04):
+Age: 66, Gender: Male.
+Admission for acute chest pressure and dyspnea. Diagnosed with Anterior STEMI.
+Coronary Angiogram: 95% proximal LAD stenosis, drug-eluting stent placed.
+Post-PCI Echocardiogram: Anterior and apical akinesis, reduced LVEF 35%.
+Current Follow-up: Ongoing ischemic cardiomyopathy management with ACE-i and beta-blocker.

@@ -1,0 +1,9 @@
+PATIENT ID: PT-10506
+PATIENT NAME: Margaret Kim
+AGE: 74
+SEX: Female
+PRIMARY DIAGNOSIS: Severe Multi-Territory Ischemic Cardiomyopathy (LVEF 25%, NYHA IV)
+PRESENTING SYMPTOMS: Progressive exertional dyspnea, paroxysmal nocturnal dyspnea, 3-pillow orthopnea, bilateral leg swelling.
+MEDICAL HISTORY: Prior anterior and inferior myocardial infarctions (2015, 2019), type 2 diabetes mellitus, chronic kidney disease.
+SUSPECTED CONDITION: The patient may have Severe Multi-Territory Ischemic Cardiomyopathy (LVEF 25%, NYHA IV) with Multi-Vessel Myocardial Scar and Pulmonary Hypertension.
+CLINICAL PRIORITY: HIGH PRIORITY — Inpatient Guideline-Directed Medical Therapy & Myocardial Viability CMR Workup

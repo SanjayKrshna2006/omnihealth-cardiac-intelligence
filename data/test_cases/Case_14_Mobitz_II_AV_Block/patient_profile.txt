@@ -1,0 +1,7 @@
+PATIENT ID: PT-10495
+PATIENT NAME: Richard Hansen
+AGE: 82
+SEX: Male
+PRIMARY DIAGNOSIS: Mobitz Type II 2nd Degree AV Block
+PRESENTING SYMPTOMS: Sudden syncopal episode while standing, severe lightheadedness, fatigue, resting pulse 44 bpm.
+MEDICAL HISTORY: Lev-Lenegre conducting system sclerosis, previous permanent pacemaker workup deferred.

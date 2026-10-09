@@ -1,0 +1,24 @@
+{
+  "id": "heart_failure",
+  "name": "Heart Failure (CHF)",
+  "pending_doctor_review": true,
+  "extension_days": 10,
+  "modifications": {
+    "checks": [
+      {
+        "name": "Daily Morning Weight (Strict Dry Weight)",
+        "target": "Report any increase of >= 2 lbs in 24h or 5 lbs in a week"
+      },
+      {
+        "name": "Fluid Intake Log & Ankle Swelling",
+        "target": "Adhere strictly to fluid restriction (e.g. 1.5-2.0 L/day) and inspect for leg edema"
+      }
+    ],
+    "meals_note": "Strict low-sodium (<1,500 mg/day) and fluid restriction guidance.",
+    "workout_cap": "minimum",
+    "doctor_flags": [
+      "Rigorous fluid retention monitoring",
+      "Low exertion ceiling to prevent cardiac overload"
+    ]
+  }
+}

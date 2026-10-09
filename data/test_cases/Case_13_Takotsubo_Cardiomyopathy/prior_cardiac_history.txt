@@ -1,0 +1,12 @@
+PATIENT: Helen Campbell (PT-10494)
+AGE: 66 | GENDER: Female
+DIAGNOSIS: Takotsubo (Stress-Induced) Cardiomyopathy with Classic Apical Ballooning Syndrome
+
+CLINICAL HISTORY & SUMMARY:
+66yo female presenting with severe acute substernal chest pain following acute emotional bereavement. Coronaries patent on angiogram.
+
+ELECTROCARDIOGRAM (ECG) INTERPRETATION:
+Marked diffuse deep T-wave inversions across precordial leads V1-V6 and I, aVL with significant QTc prolongation (510 ms).
+
+ECHOCARDIOGRAM (ECHO A4C) INTERPRETATION:
+Classic 'apical ballooning' appearance: Severe akinesis of mid-to-apical left ventricular segments with compensatory hypercontractile basal segments (LVEF 35%).

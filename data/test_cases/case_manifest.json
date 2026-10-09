@@ -1,0 +1,52 @@
+[
+  {
+    "case_id": "Case_01_Normal_Sinus_Rhythm",
+    "patient_id": "PT-NORM-101",
+    "folder": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_01_Normal_Sinus_Rhythm",
+    "ecg_csv": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_01_Normal_Sinus_Rhythm\\ecg_12lead.csv",
+    "echo_video": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_01_Normal_Sinus_Rhythm\\echo_apical4c.mp4",
+    "history_txt": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_01_Normal_Sinus_Rhythm\\prior_cardiac_history.txt",
+    "diagnosis": "Normal sinus rhythm \u2014 no electrical or repolarization abnormality",
+    "lvef": 62.0
+  },
+  {
+    "case_id": "Case_02_Anterior_Myocardial_Infarction",
+    "patient_id": "PT-MI-202",
+    "folder": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_02_Anterior_Myocardial_Infarction",
+    "ecg_csv": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_02_Anterior_Myocardial_Infarction\\ecg_12lead.csv",
+    "echo_video": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_02_Anterior_Myocardial_Infarction\\echo_apical4c.mp4",
+    "history_txt": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_02_Anterior_Myocardial_Infarction\\prior_cardiac_history.txt",
+    "diagnosis": "Myocardial infarction changes with anterior wall ischemia / necrosis",
+    "lvef": 34.0
+  },
+  {
+    "case_id": "Case_03_Ischemic_ST_T_Wave_Changes",
+    "patient_id": "PT-STTC-303",
+    "folder": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_03_Ischemic_ST_T_Wave_Changes",
+    "ecg_csv": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_03_Ischemic_ST_T_Wave_Changes\\ecg_12lead.csv",
+    "echo_video": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_03_Ischemic_ST_T_Wave_Changes\\echo_apical4c.mp4",
+    "history_txt": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_03_Ischemic_ST_T_Wave_Changes\\prior_cardiac_history.txt",
+    "diagnosis": "ST/T-segment changes consistent with myocardial strain/repolarization abnormality",
+    "lvef": 58.0
+  },
+  {
+    "case_id": "Case_04_Conduction_Disturbance_LBBB",
+    "patient_id": "PT-CD-404",
+    "folder": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_04_Conduction_Disturbance_LBBB",
+    "ecg_csv": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_04_Conduction_Disturbance_LBBB\\ecg_12lead.csv",
+    "echo_video": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_04_Conduction_Disturbance_LBBB\\echo_apical4c.mp4",
+    "history_txt": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_04_Conduction_Disturbance_LBBB\\prior_cardiac_history.txt",
+    "diagnosis": "Intraventricular conduction disturbance / bundle branch block pattern",
+    "lvef": 47.0
+  },
+  {
+    "case_id": "Case_05_Ventricular_Hypertrophy",
+    "patient_id": "PT-HYP-505",
+    "folder": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_05_Ventricular_Hypertrophy",
+    "ecg_csv": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_05_Ventricular_Hypertrophy\\ecg_12lead.csv",
+    "echo_video": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_05_Ventricular_Hypertrophy\\echo_apical4c.mp4",
+    "history_txt": "S:\\projects\\New folder\\OmniHealth\\OmniHealth\\data\\test_cases\\Case_05_Ventricular_Hypertrophy\\prior_cardiac_history.txt",
+    "diagnosis": "High voltage criteria suggestive of left ventricular hypertrophy",
+    "lvef": 56.0
+  }
+]

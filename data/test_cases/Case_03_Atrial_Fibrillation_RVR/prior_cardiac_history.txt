@@ -1,0 +1,12 @@
+PATIENT: Sarah Jenkins (PT-10484)
+AGE: 71 | GENDER: Female
+DIAGNOSIS: Atrial Fibrillation with Rapid Ventricular Response (124 bpm) & Mild Systolic Blunting
+
+CLINICAL HISTORY & SUMMARY:
+71yo female with hypertension presenting with sudden palpitations, lightheadedness, and exertional fatigue.
+
+ELECTROCARDIOGRAM (ECG) INTERPRETATION:
+Atrial Fibrillation with variable RR intervals and ventricular rate 118-132 bpm. Diffuse rate-related ST sagging.
+
+ECHOCARDIOGRAM (ECHO A4C) INTERPRETATION:
+Mildly reduced LVEF (48%) with left atrial enlargement and beat-to-beat stroke volume variability.

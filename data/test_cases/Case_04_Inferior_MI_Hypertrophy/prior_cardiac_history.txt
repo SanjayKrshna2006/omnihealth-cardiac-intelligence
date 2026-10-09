@@ -1,0 +1,12 @@
+PATIENT: Robert Kowalski (PT-10485)
+AGE: 58 | GENDER: Male
+DIAGNOSIS: Concentric Left Ventricular Hypertrophy with Prior Silent Inferior MI
+
+CLINICAL HISTORY & SUMMARY:
+58yo male with 15-year history of poorly controlled hypertension and smoking. Intermittent atypical burning.
+
+ELECTROCARDIOGRAM (ECG) INTERPRETATION:
+Sokolow-Lyon voltage 3.9 mV (LVH criteria positive). Pathological Q-waves in II, III, aVF with lateral strain pattern.
+
+ECHOCARDIOGRAM (ECHO A4C) INTERPRETATION:
+Concentric septal hypertrophy (14.5 mm) with preserved LVEF (56%) and localized basal-inferior hypokinesis.

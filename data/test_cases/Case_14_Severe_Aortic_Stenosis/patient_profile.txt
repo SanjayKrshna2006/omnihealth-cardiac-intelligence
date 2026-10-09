@@ -1,0 +1,9 @@
+PATIENT ID: PT-10489
+PATIENT NAME: James Wilson
+AGE: 78
+SEX: Male
+PRIMARY DIAGNOSIS: Severe Symptomatic Calcific Aortic Valve Stenosis
+PRESENTING SYMPTOMS: Progressive exertional dyspnea (NYHA Class II-III), near-syncope while walking uphill, late-peaking systolic ejection murmur.
+MEDICAL HISTORY: Bicuspid aortic valve, severe annular calcification, hypertension, dyslipidemia.
+SUSPECTED CONDITION: The patient may have Severe Symptomatic Calcific Aortic Valve Stenosis (AVA 0.7 cm², Vmax 4.4 m/s, Mean Gradient 46 mmHg) with Concentric LV Remodeling.
+CLINICAL PRIORITY: HIGH PRIORITY — Urgent Structural Valve Evaluation & TAVR / SAVR Workup

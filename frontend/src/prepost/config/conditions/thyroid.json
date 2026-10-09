@@ -1,0 +1,17 @@
+{
+  "id": "thyroid",
+  "name": "Thyroid Disorder (Hypo / Hyperthyroidism)",
+  "clinical_review": "pending_doctor_review",
+  "extension_days": 2,
+  "modifications": {
+    "checks": [
+      {
+        "name": "Thyroid Medication Timing",
+        "target": "Taken 60 min before food on empty stomach"
+      }
+    ],
+    "doctor_flags": [
+      "Monitor for perioperative thyroid hormone stability"
+    ]
+  }
+}
